@@ -1,0 +1,49 @@
+
+ 
+Test data | Expected result | Actual result | Pass/Fail | Pago
+   -15          FALSE           FALSE          FAIL         0
+    1           TRUE            TRUE           PASS         10
+    2           TRUE            TRUE           PASS         20
+    6           TRUE            TRUE           PASS         54
+    10          TRUE            TRUE           PASS         90
+    11          TRUE            TRUE           PASS         77
+    15          TRUE            TRUE           PASS         105
+   -1           FALSE           FALSE          FAIL         0
+   -2           FALSE           FALSE          FAIL         0
+   -3           FALSE           FALSE          FAIL         0
+ 
+Test data | Expected result | Actual result | Pass/Fail | Pago
+   -15          FALSE           FALSE          FAIL         0
+    1           TRUE            TRUE           PASS         10
+    2           TRUE            TRUE           PASS         20
+    6           TRUE            TRUE           PASS         54
+    10          TRUE            TRUE           PASS         90
+    11          TRUE            TRUE           PASS         77
+    15          TRUE            TRUE           PASS         105
+   -1           FALSE           FALSE          FAIL         0
+   -2           FALSE           FALSE          FAIL         0
+   -3           FALSE           FALSE          FAIL         0
+ 
+Test data | Expected result | Actual result | Pass/Fail | Pago
+   -15          FALSE           FALSE          FAIL         0
+    1           TRUE            TRUE           PASS         10
+    2           TRUE            TRUE           PASS         20
+    6           TRUE            TRUE           PASS         54
+    10          TRUE            TRUE           PASS         90
+    11          TRUE            TRUE           PASS         77
+    15          TRUE            TRUE           PASS         105
+   -1           FALSE           FALSE          FAIL         0
+   -2           FALSE           FALSE          FAIL         0
+   -3           FALSE           FALSE          FAIL         0
+ 
+Test data | Expected result | Actual result | Pass/Fail | Pago
+   -15          FALSE           FALSE          FAIL         0
+    1           TRUE            TRUE           PASS         10
+    2           TRUE            TRUE           PASS         20
+    6           TRUE            TRUE           PASS         54
+    10          TRUE            TRUE           PASS         90
+    11          TRUE            TRUE           PASS         77
+    15          TRUE            TRUE           PASS         105
+   -1           FALSE           FALSE          FAIL         0
+   -2           FALSE           FALSE          FAIL         0
+   -3           FALSE           FALSE          FAIL         0
